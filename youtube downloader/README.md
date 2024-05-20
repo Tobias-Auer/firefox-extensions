@@ -1,3 +1,3 @@
-With this firefox splugin you can easily access youtube videos and download them on you pc.
+With this Firefox plugin you can easily access Youtube videos and download them to your PC.
 
-You have to install the extension and run the python backend (exe is in the release folder)
+You need to install the extension and run the Python backend (the exe is located in the release folder).
